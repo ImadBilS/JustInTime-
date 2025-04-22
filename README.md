@@ -20,7 +20,7 @@ Elle permet d'ajouter, consulter, modifier et supprimer des projets via une inte
 
 - Bun (serveur web + routage API)
 - TypeScript
-- React (frontend SPA)
+- React (frontend)
 - Tailwind CSS
 - Stockage local JSON
 
